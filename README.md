@@ -6,7 +6,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-My analysis is included in the Jupyter Notebook. 
+My analysis is included in the Jupyter Notebook. Images in the folder are of the models created during the activity.
 
 References:
 Duplicate: (1) https://saturncloud.io/blog/how-to-find-all-duplicate-rows-in-a-pandas-dataframe/#:~:text=To%20find%20duplicate%20rows%20in%20a%20pandas%20dataframe%2C%20we%20can,get%20all%20the%20duplicate%20rows.
