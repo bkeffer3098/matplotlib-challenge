@@ -5,5 +5,3 @@ Duplicate: https://saturncloud.io/blog/how-to-find-all-duplicate-rows-in-a-panda
     https://saturncloud.io/blog/how-to-check-for-duplicate-values-in-pandas-dataframe-column/
 
 Aggregation: https://saturncloud.io/blog/how-to-use-python-pandas-dataframe-aggregate-groupby/#:~:text=Aggregate%2C%20also%20known%20as%20agg,standard%20deviation%2C%20variance%2C%20etc.
-
-Isin: https://www.w3schools.com/python/pandas/ref_df_isin.asp#:~:text=Definition%20and%20Usage,the%20specified%20values%2C%20otherwise%20False%20.
